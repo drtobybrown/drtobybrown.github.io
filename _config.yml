@@ -41,22 +41,22 @@ favicon: "/img/telescope-bw.ico"
 
 black-favicon: "/img/telescope-w.ico"
 
-background-img: "../img/gleam-mw.jpg"
+background-img: "../img/star-trail.jpg"
 
 ##############################
 # Dynamic Text on the Header #
 ##############################
 
 dynamic-typing: True
-shuffle: True # Shuffle the lines.
+shuffle: False # Shuffle the lines.
 loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 6
-start-delay: 200
-delete-delay: 5000
+loop-count: 4 # Set False for infinite loop, or set any number for finite loop.
+type-speed: 0.000001
+start-delay: 1000
+delete-delay: 3000
 lines: # You can add HTML Tags in the Text
   - text: "I'm Toby Brown, an astrophysicist at McMaster University."
-  - text: "I work on galaxies and how they evolve."
+  - text: "I try to understand how galaxies evolve."
   - text: "I also talk about science on the side."
 
 me-img: "/img/twitter-hs.jpg"
@@ -113,15 +113,15 @@ post-preview-words: 96
 paginate: 5
 
 email-share: True
-fb-share: True
+fb-share: Fasle
 twitter-share: True
 linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+reddit-share: False
+google-plus-share: False
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
 
 disqus-shortname: "panossakkos"
 
@@ -132,19 +132,19 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "My Papers"
-    description: "ADS Library of my papers."
-  - image: "/img/timeline/spidertocat.png"
-    date: "Public Speaking"
-    description: "Hyper links to credits"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/ads-logo.png"
+    date: "Published Papers"
+    description: "A list of my papers can be found <a href=\"http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=my+pubs&libid=5330cd9ef7\" target=\"_blank\">here</a>"
+  - image: "/img/timeline/mic.jpg"
+    date: "Public Speaking and Media Coverage"
+    description: "Cosmic Shambles, FameLab, IFL Science, Daily Telgraph, Scientific American"
+  - image: "/img/timeline/tape.jpg"
     date: "Radio"
-    description: "ABC Radio National, Perth 720, etc. etc."
+    description: "ABC, SpaceTime, RTR-FM, JOY FM"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/tapeitelescope.jpg"
 
 ###########
 # Contact #
