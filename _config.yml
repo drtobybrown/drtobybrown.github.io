@@ -56,7 +56,7 @@ start-delay: 1000
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
   - text: "I'm Toby Brown, an astrophysicist at McMaster University."
-  - text: "I try to understand how galaxies evolve."
+  - text: "I explore how galaxies evolve."
   - text: "I also talk about science on the side."
 
 me-img: "/img/twitter-hs.jpg"
@@ -123,7 +123,7 @@ pinterest-share: False
 pocket-share: False
 vkontakte-share: False
 
-disqus-shortname: "panossakkos"
+# disqus-shortname: "toby"
 
 syntax-highlight: True
 
@@ -135,12 +135,15 @@ events:
   - image: "/img/timeline/ads-logo.png"
     date: "Published Papers"
     description: "A list of my papers can be found <a href=\"http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=my+pubs&libid=5330cd9ef7\" target=\"_blank\">here</a>"
+  - image: "/img/timeline/newspaper.jpg"
+    date: "Featured in the Press"
+    description: "My research has been covered by IFL Science, Daily Telgraph, Gizmodo, Scientific American and more"
   - image: "/img/timeline/mic.jpg"
-    date: "Public Speaking and Media Coverage"
-    description: "Cosmic Shambles, FameLab, IFL Science, Daily Telgraph, Scientific American"
+    date: "Public Speaking"
+    description: "I regularly deliver talks to large audiences, including the March for Science, Cosmic Shambles, FameLab, industry events."
   - image: "/img/timeline/tape.jpg"
     date: "Radio"
-    description: "ABC, SpaceTime, RTR-FM, JOY FM"
+    description: "Amongst others, I have provided commentary for the ABC, SpaceTime, RTR-FM and JOY FM"
 
 # First image of the Timeline
 
@@ -184,7 +187,7 @@ social:
 # 404 page #
 ############
 
-err-404-img: "/img/labtocat.png"
+err-404-img: "/img/First-World-Problems.jpg"
 
 ##################
 # GPG on Keybase #
@@ -199,7 +202,6 @@ keybase-in-footer: False
 # NB! Tread carefully if you want to change the variables below this point!
 
 # Sections shown in the index page
-
 pages_list:
   Astrophysics: 'about'
   SciCom: 'latest-post'
@@ -219,6 +221,6 @@ paginate_path: "blog/page:num/"
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-paginate
   - jemoji
