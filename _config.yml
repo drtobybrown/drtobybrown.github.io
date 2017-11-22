@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Toby Brown"
 title: "Toby Brown"
-description: "Personal website of Toby Brown, blogging mainly for science. Opinions expressed are probably someone else's."
+description: "Personal website of Toby Brown, blogging mainly for science. Opinions expressed probably belong to someone else."
 keywords: "astrophysics, toby, brown, science, astronomy"
 favicon: "/img/telescope-bw.ico"
 
@@ -137,10 +137,10 @@ events:
     description: "A list of my papers can be found <a href=\"http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=my+pubs&libid=5330cd9ef7\" target=\"_blank\">here</a>"
   - image: "/img/timeline/newspaper.jpg"
     date: "Featured in the Press"
-    description: "My research has been covered by IFL Science, Daily Telgraph, Gizmodo, Scientific American and more"
+    description: "My research has been covered by IFL Science, Daily Telegraph, Gizmodo, Scientific American and more"
   - image: "/img/timeline/mic.jpg"
     date: "Public Speaking"
-    description: "I regularly deliver talks to large audiences, including the March for Science, Cosmic Shambles, FameLab, industry events."
+    description: "I regularly deliver talks to large audiences, including the March for Science, Cosmic Shambles, FameLab and major industry events"
   - image: "/img/timeline/tape.jpg"
     date: "Radio"
     description: "Amongst others, I have provided commentary for the ABC, SpaceTime, RTR-FM and JOY FM"
@@ -193,7 +193,7 @@ err-404-img: "/img/First-World-Problems.jpg"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: tobybrown
 keybase-in-social: False
 keybase-in-footer: False
 
