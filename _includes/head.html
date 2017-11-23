@@ -45,7 +45,10 @@
   {% include color-browser.html %}
 
   {% include syntax-highlight.html %}
-
+  
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 </head>
 
 <!-- HEAD End -->
