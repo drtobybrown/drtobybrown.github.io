@@ -136,10 +136,10 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/ads-logo.png"
     date: "Published Papers"
-    description: "A list of my papers can be found <a href=\"http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=my+pubs&libid=5330cd9ef7\" target=\"_blank\">here</a>"
+    description: "A list of my papers can be found <a href=\"https://ui.adsabs.harvard.edu/#/public-libraries/qaBVqiz3R4Sg1ZR6ihYcSw\" target=\"_blank\">here</a>"
   - image: "/img/timeline/newspaper.jpg"
     date: "Featured in the Press"
-    description: "My research has been covered by IFL Science, Daily Telegraph, Gizmodo, Scientific American and more"
+    description: "My research has been covered by IFL Science, news.com.au, The Herald Sun, Gizmodo, Scientific American and more"
   - image: "/img/timeline/mic.jpg"
     date: "Public Speaking"
     description: "I regularly deliver talks to large audiences, including the March for Science, Cosmic Shambles, FameLab and major industry events"
