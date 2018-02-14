@@ -35,7 +35,7 @@ description: "Personal website of Dr. Toby Brown."
 keywords: "astrophysics, toby, brown, science, astronomy"
 favicon: "/img/telescope-bw.ico"
 twitter:
-  username: benbalter
+  username: drtobybrown
 
 ################
 # Header layout #
@@ -57,7 +57,8 @@ type-speed: 0.000001
 start-delay: 1000
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
-  - text: "I'm Toby Brown, an astrophysicist at McMaster University."
+  - text: "Hello."
+  - text: "My name is Toby, I'm an astrophysicist at McMaster University."
   - text: "I explore how galaxies evolve."
   - text: "I also talk about science on the side."
 
@@ -115,7 +116,7 @@ post-preview-words: 96
 paginate: 5
 
 email-share: True
-fb-share: Fasle
+fb-share: False
 twitter-share: True
 linkedin-share: True
 reddit-share: False
@@ -139,7 +140,7 @@ events:
     description: "A list of my papers can be found <a href=\"https://ui.adsabs.harvard.edu/#/public-libraries/qaBVqiz3R4Sg1ZR6ihYcSw\" target=\"_blank\">here</a>"
   - image: "/img/timeline/newspaper.jpg"
     date: "Featured in the Press"
-    description: "My research has been covered by IFL Science, news.com.au, The Herald Sun, Gizmodo, Scientific American and more"
+    description: "My research or commentary has been featured in The Conversation, IFL Science, news.com.au, The Herald Sun, Gizmodo, Scientific American and more"
   - image: "/img/timeline/mic.jpg"
     date: "Public Speaking"
     description: "I regularly deliver talks to large audiences, including the March for Science, Cosmic Shambles, FameLab and major industry events"
