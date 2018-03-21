@@ -137,7 +137,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/ads-logo.png"
     date: "Published Papers"
-    description: "A list of my papers can be found <a href=\"https://ui.adsabs.harvard.edu/#/public-libraries/qaBVqiz3R4Sg1ZR6ihYcSw\" target=\"_blank\">here</a>"
+    description: "A list of my papers can be found <a href=\"https://ui.adsabs.harvard.edu/#/public-libraries/PmZuzC2WT_iteZZLF1guPw\" target=\"_blank\">here</a>"
   - image: "/img/timeline/newspaper.jpg"
     date: "Featured in the Press"
     description: "My research or commentary has been featured in The Conversation, IFL Science, news.com.au, The Herald Sun, Gizmodo, Scientific American and more"
