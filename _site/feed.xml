@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Toby Brown</title>
-		<description>Personal website of Toby Brown, blogging mainly for science. Opinions expressed are probably someone else's.</description>
+		<description>Personal website of Dr. Toby Brown.</description>
 		<link>https://drtobybrown.github.io</link>
 		<atom:link href="https://drtobybrown.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
