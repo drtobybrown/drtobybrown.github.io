@@ -140,10 +140,10 @@ events:
     description: "A list of my papers can be found <a href=\"https://ui.adsabs.harvard.edu/#/public-libraries/PmZuzC2WT_iteZZLF1guPw\" target=\"_blank\">here</a>"
   - image: "/img/timeline/newspaper.jpg"
     date: "Featured in the Press"
-    description: "My research or commentary has been featured in The Conversation, IFL Science, news.com.au, The Herald Sun, Gizmodo, Scientific American and more"
+    description: "My research or commentary has been featured in The Conversation, The New York Post, The Herald Sun, Scientific American, Space.com, and more"
   - image: "/img/timeline/mic.jpg"
     date: "Public Speaking"
-    description: "I regularly deliver talks to large audiences, including the March for Science, Cosmic Shambles, FameLab and major industry events"
+    description: "I regularly deliver talks to large audiences, including the March for Science, Cosmic Shambles, FameLab, and other major events"
   - image: "/img/timeline/tape.jpg"
     date: "Radio"
     description: "Amongst others, I have provided commentary for the ABC, SpaceTime, RTR-FM and JOY FM"
@@ -208,6 +208,7 @@ keybase-in-footer: False
 pages_list:
   Astrophysics: 'about'
   SciCom: 'latest-post'
+  SciCom: 'test-post'
   Portfolio: 'timeline'
   Contact: 'contact'
 
