@@ -208,7 +208,6 @@ keybase-in-footer: False
 pages_list:
   Astrophysics: 'about'
   SciCom: 'latest-post'
-  SciCom: 'test-post'
   Portfolio: 'timeline'
   Contact: 'contact'
 
