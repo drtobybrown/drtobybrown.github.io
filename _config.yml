@@ -58,7 +58,7 @@ start-delay: 1000
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
   - text: "Hello."
-  - text: "My name is Toby, I'm an astrophysicist at McMaster University."
+  - text: "My name is Toby, I'm an astrophysicist at NRC Herzberg."
   - text: "I explore how galaxies evolve."
   - text: "I also talk about science on the side."
 
